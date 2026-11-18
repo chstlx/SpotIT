@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/icon.png" alt="Spot IT" width="140" />
+  <img src="assets/spot.jpg" alt="Spot IT" width="140" />
 
   <h1>Spot IT</h1>
 
