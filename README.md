@@ -1,11 +1,46 @@
-# Sample Snack app
+<div align="center">
+  <img src="assets/images/icon.png" alt="Spot IT" width="140" />
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+  <h1>Spot IT</h1>
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+  <p><strong>Spot the odd color among the buttons to score points. Each correct choice increases the difficulty, making the colors harder to distinguish.</strong></p>
+  <p>
+    A fast‑paced color perception game built with Expo and React Native. 
+    Move through buttons on the tile with the different color, climb your score, and try to beat your best. 
+    Your high score is saved locally on the device.
+  </p>
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+  <p align="center">
+  <img src="https://img.shields.io/badge/Expo-54.0.37-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/React-19.1.0-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-0.81.5-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-Not%20Used-lightgrey?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+<p align="center">
+  <img src="https://img.shields.io/badge/Reanimated-4.1.1-6C43E0?style=for-the-badge&logo=react&logoColor=white" alt="Reanimated" />
+  <img src="https://img.shields.io/badge/AsyncStorage-2.2.0-lightgrey?style=for-the-badge" alt="AsyncStorage" />
+  <img src="https://img.shields.io/badge/React_Navigation-*-%23007ACC?style=for-the-badge&logo=react&logoColor=white" alt="React Navigation" />
+  <img src="https://img.shields.io/badge/License-0BSD-green?style=for-the-badge" alt="0BSD License" />
+</p>
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+  <p>
+    <a href="https://github.com/chstlx/SpotIT">GitHub Repository</a>
+  </p>
+</div>
+
+## Authors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/chstlx">
+        <img src="https://github.com/chstlx.png" width="80" height="80" style="border-radius:50%" alt="Chestel Mae P. Sebastian" /><br />
+        <strong>Chestel Mae P. Sebastian</strong>
+      </a>
+      <br />
+      <a href="https://www.facebook.com/chstl.rchv3">Facebook</a>
+      <br />
+    </td>
+  </tr>
+</table>
